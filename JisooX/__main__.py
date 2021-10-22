@@ -34,20 +34,20 @@ My name is *{}*, a powerful telegram bot to music service and manage your groups
 
 HELP_STRINGS = """
 𝘼𝙑𝘼𝙄𝙇𝘼𝘽𝙇𝙀 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎
-(all commands can either be used with "/")
+(berikan perintah dengan "/" atau ".")
 
 💠 𝙛𝙤𝙧 𝙢𝙪𝙨𝙞𝙘 𝙨𝙚𝙧𝙫𝙞𝙘𝙚
- • /play (title): play song from youtube
- • /search (title): search url from youtube
- • /lirik (title): find the lyrics of the song
- • /playlist: show the list song in queue
- • /userbotjoin: invite assistant bot
- • /reload: refresh the admin list
- • /skip: skip to the next song
- • /pause: pause the music
- • /resume: resume the music
- • /end: stop music streaming
- • /s (title/url): download song
+ • /play (judul): memutar musik
+ • /search (judul): mencari musik
+ • /lirik (judul): mencari lirik lagu
+ • /playlist: melihat daftar antrian
+ • /userbotjoin: mengundang asisten
+ • /reload: memperbarui bot
+ • /skip: lanjut ke lagu berikutnya
+ • /pause: menjeda pemutaran
+ • /resume: melanjutkan pemutaran
+ • /end: menghentikan pemutaran
+ • /s (judul/url): mengunduh lagu
 
 💠 𝙛𝙤𝙧 𝙢𝙖𝙣𝙖𝙜𝙚 𝙜𝙧𝙤𝙪𝙥𝙨
  • /help: PM's you this message
